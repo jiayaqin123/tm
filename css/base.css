@@ -1,0 +1,20 @@
+﻿@charset "utf-8";
+body,p,h1,h2,h3,h4,h5,h6,form,input,ul,li,dd,dl,textarea{
+  padding:0;margin:0;
+  list-style-type:none;
+  font-family:"微软雅黑";
+  font-size:12px;	
+}
+a{
+  text-decoration:none;
+}
+img{
+  border:0;
+}
+input:focus,textarea:focus {
+    outline: none;
+}
+.l{
+float:left;}
+.r{
+float:right;}
